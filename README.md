@@ -7,6 +7,7 @@
 
 * **Nombre:** Isai Guilbert Gordillo
 * **GitHub:** [https://github.com/Isai1622](https://github.com/Isai1622)
+* **Accede mediante este link: https://organizador-de-tareas-diarias-html-css-js.vercel.app
 
 ## Descripción del Proyecto
 
